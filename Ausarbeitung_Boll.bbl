@@ -1,0 +1,24 @@
+\begin{thebibliography}{HK19}
+
+\bibitem[Bol19]{seminar}
+Janek Boll.
+\newblock Seminar sharing economy: Wir bauen einen sharingpoint - einblick in
+  die thematik und entwurf eines geschäftsmodells.
+\newblock 2019.
+
+\bibitem[Clo19]{CloudFirestore}
+Cloud firestore.
+\newblock \url{https://firebase.google.com/docs/firestore}, 2019.
+\newblock [Online, abgerufen am 20.11.2019].
+
+\bibitem[HK19]{Boxen}
+Julian Haase and Rene Kern.
+\newblock Box system backend.
+\newblock 2019.
+
+\bibitem[LS19]{FairUse}
+Mohamed Latifa and Mahmoud Sharbaji.
+\newblock Fairuse.
+\newblock 2019.
+
+\end{thebibliography}
